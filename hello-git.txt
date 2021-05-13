@@ -2,3 +2,4 @@ hello git
 alteracao 1
 
 asdasdasd
+teste de git pela ide
